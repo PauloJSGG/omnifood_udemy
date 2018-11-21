@@ -472,3 +472,23 @@ textarea {
 input[type=checkbox] {
     margin: 10px 5px 10px 0;   
 }
+
+/* FOOTER */
+.footer-nav {
+    float: left;
+    list-style: none;  
+
+}
+
+.footer-nav li {
+    display: inline-block;
+}
+
+.social-link {
+    float: right;
+    list-style: none;  
+}
+
+.social-link li {
+    display: inline-block;
+}
